@@ -2,7 +2,7 @@
 I am a fullstack software engineer and Data Scientist, AI, ML engineer and Doctor from Japan
 - 🔭 10 years experience as a physician in Japan and US
 - 🌱 2 years experience of frontend engineer and software developper
-- from 2022, start a career as a Data Scientist and AI,ML engineer
+- 2 years experience as a Data Scientist and AI,ML engineer
 <br>
 <br>
 ## Connect with me
